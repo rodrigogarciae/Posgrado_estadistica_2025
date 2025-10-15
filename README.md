@@ -16,3 +16,4 @@ Semana 6 (11/09/2025) No se tuvo sesión con el Dr. Marco González Tagle.
 Semana 7 (18/09/2025) Se vio el tema de Análisis de Varianza (ANOVA).
 ###### Semana 8
 Semana 8 (25/09/2025) Se dio el tema de Regresión lineal y con este último se concluyen las sesiones del Dr. Marco Aurelio González Tagle en el curso de experimentación y métodos estadísticos.
+<img width="977" height="700" alt="image" src="https://github.com/user-attachments/assets/d4433435-013b-4a50-aebd-629ca7b8a4c7" />
