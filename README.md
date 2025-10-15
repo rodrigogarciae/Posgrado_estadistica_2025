@@ -1,6 +1,6 @@
 # Posgrado_estadistica_2025
 Material del curso de Posgrado de Experimentación y Métodos Estadísticos en MCF y DCMRN
-# Introducción
+## Introducción
 La estadística es la ciencia que eseña a analizar datos para extraer información útil y tomar buenas decisiones, esta diciplina aborda la estadística descriptiva (medidas de tendencia central, variabilidad) y la inferencial (probabilidad, pruebas de hipótesis) y se aplican en diversas áreas profesionales y científicas. En el siguiente curso se veran diversos temas que auxiliaran al estudiante de la Maestria en Ciencias Forestales a tomar mejores decisiones en el manejo de sus datos obtenidos en su proyecto de investigación, de esta forma tendra las susficientes herrameintas para analizar sus datos y explicar con claridad sus resusltados de su trabajo.
 El siguinte repositorio en Git hub sera un espacio de almacenaminto de información, el cual le permitira tener informacion pública, ordenada y disponbible para que cualquier persona pueda visualizar el trabajo realizado, además esta plataforma servira como un método de estudio en el programa Rstudio, ya que contara con todas las actividades que realice el estudiante (Scripts, tareas y laboratorios), de esta forma proporcionado códigos, análisis y resultado de los distintos temas que se abordaran en cada sesión presentada.
 ## Contenido del curso
